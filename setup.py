@@ -3,8 +3,7 @@ from setuptools import setup
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-## edit below variables as per your requirements -
-REPO_NAME = "Movie-Recommender-System-Using-Machine-Learning"
+REPO_NAME = "movies-recommender-system"
 AUTHOR_USER_NAME = "naveen"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit']
