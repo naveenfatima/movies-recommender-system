@@ -61,7 +61,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-# Concept used to build the model.pkl file : cosine_similarity
+# cosine_similarity application:
 
 1 . Cosine Similarity is a metric that allows you to measure the similarity of the documents.
 
